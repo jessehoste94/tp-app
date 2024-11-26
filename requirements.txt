@@ -1,1 +1,5 @@
 streamlit
+seaborn
+pandas
+streamlit_folium
+matplotlib
